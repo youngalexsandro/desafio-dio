@@ -1,4 +1,4 @@
-// para iniciar seu jornada adicione as seguintes informações:
+// para iniciar sua jornada adicione as seguintes informações:
 let nome = "Mario" // adicione o nome do seu herói
 let xp = 9999 // adicione o nível de xp
 
