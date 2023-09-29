@@ -1,11 +1,11 @@
 let nome = "Mario" // adicione o nome 
-let xp = 9999
+let xp = 1001
 
 if (xp <= 1000){
     console.log("O Herói " + nome + " está no nível de: " + "Ferro")
 }
 if (xp >= 1001 && xp <= 2000){
-    console.log("Bronze")
+    console.log("O Herói "+ nome + " está no nível de: " + "Bronze")
 }
 if (xp >= 2001 && xp <= 6000){
     console.log("O Herói " + nome + " está no nível de: " + "Prata")
